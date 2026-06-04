@@ -17,6 +17,10 @@ struct ContentView: View {
                 .foregroundStyle(.yellow)
             Text("Tes git")
                 .foregroundStyle(.green)
+            
+            
+            Text("Halaman Login Page-Buatan Robby")
+            .foregroundStyle(.green)
         }
     }
 }
