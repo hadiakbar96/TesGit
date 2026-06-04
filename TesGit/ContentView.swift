@@ -17,6 +17,8 @@ struct ContentView: View {
                 .foregroundStyle(.yellow)
             Text("Tes git")
                 .foregroundStyle(.green)
+            Text("Tes git 2")
+                .foregroundStyle(.red)
         }
     }
 }
